@@ -50,6 +50,7 @@ form {
 }
 .container input {
   font-size: 23px;
+  box-shadow: 0 1px 13px #373786;
   flex-shrink: 1;
   outline: none;
   border: transparent;
